@@ -17,10 +17,12 @@ Personal website: [ggcarvalho.dev](ggcarvalho.dev)
 - Computer Vision
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
+
+- [LinkedIn](https://www.linkedin.com/in/ggcarvalho/)
 
 ### Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+- Python: TensorFlow, PyTorch, OpenCV, Scikit-Learn, Matplotlib, Pandas, Numpy, Scipy, Jupyter Notebook.
+- Go: For general and scientific computing, and presentations.
+- Less known languages: Java, Matlab, C/C++. 
+- Others: Linux, LaTeX, bash, Git.  
