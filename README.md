@@ -1,16 +1,26 @@
-### Hi there 👋
+## About me
 
-<!--
-**ggcarvalho/ggcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Data Scientist @ SpaceTime Labs
+- PhD Studend @ CIn - UFPE
+- BSc and MSc in Mathematics
+- PhD in Physics/Relativistic Astrophysics
 
-Here are some ideas to get you started:
+Personal website: [ggcarvalho.dev](ggcarvalho.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Machine Learning
+- Deep Learning
+- Spiking Neural Networks
+- Computational Photography
+- Image Processing
+- Computer Vision
+
+### Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/adriel-martins-12839a128/)
+
+### Tools:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
