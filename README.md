@@ -1,7 +1,7 @@
 ## About me
 
 - Data Scientist @ SpaceTime Labs
-- PhD Studend @ CIn - UFPE
+- PhD Student @ CIn - UFPE
 - BSc and MSc in Mathematics
 - PhD in Physics/Relativistic Astrophysics
 
