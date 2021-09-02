@@ -5,7 +5,7 @@
 - BSc and MSc in Mathematics
 - PhD in Physics/Relativistic Astrophysics
 
-Personal website: [ggcarvalho.dev](ggcarvalho.dev)
+Personal website: [http://ggcarvalho.dev/](ggcarvalho.dev)
 
 ## Interests
 
