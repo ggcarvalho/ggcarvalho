@@ -3,7 +3,7 @@
 - Data Scientist @ SpaceTime Labs
 - PhD Student @ CIn - UFPE
 - BSc and MSc in Mathematics
-- PhD in Physics/Relativistic Astrophysics
+- PhD in Physics/Relativistic Astrophysics - Università di Roma "La Sapienza"
 
 Personal website: [ggcarvalho.dev](http://ggcarvalho.dev/)
 
