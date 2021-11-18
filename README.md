@@ -15,6 +15,7 @@ Personal website: [ggcarvalho.dev](http://ggcarvalho.dev/)
 - Computational Photography
 - Image Processing
 - Computer Vision
+- Geographic Information System (GIS)
 
 ### Connect with me:
 
@@ -25,4 +26,5 @@ Personal website: [ggcarvalho.dev](http://ggcarvalho.dev/)
 - Python: TensorFlow, PyTorch, OpenCV, Scikit-Learn, Matplotlib, Pandas, Numpy, Scipy, Jupyter Notebook.
 - Go: For general and scientific computing, and presentations.
 - Less known languages: Java, Matlab, C/C++. 
-- Others: Linux, LaTeX, bash, Git.  
+- Others: Linux, LaTeX, bash, Git.
+- Softwares: QGIS  
