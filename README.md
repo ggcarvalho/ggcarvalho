@@ -23,7 +23,7 @@ Personal website: [ggcarvalho.dev](http://ggcarvalho.dev/)
 
 ### Tools:
 
-- Python: TensorFlow, PyTorch, OpenCV, Scikit-Learn, Matplotlib, Pandas, Numpy, Scipy, Jupyter Notebook.
+- Python: TensorFlow, PyTorch, OpenCV, Scikit-Learn, Matplotlib, Pandas and GeoPandas, Numpy, Scipy, Jupyter Notebook.
 - Go: For general and scientific computing, and presentations.
 - Less known languages: Java, Matlab, C/C++. 
 - Others: Linux, LaTeX, bash, Git.
