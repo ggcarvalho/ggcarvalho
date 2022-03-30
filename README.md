@@ -27,4 +27,4 @@ Personal website: [ggcarvalho.dev](http://ggcarvalho.dev/)
 - Go: For general and scientific computing, and presentations.
 - Less known languages: Java, Matlab, C/C++. 
 - Others: Linux, LaTeX, bash, Git.
-- Softwares: QGIS  
+- Software: QGIS  
