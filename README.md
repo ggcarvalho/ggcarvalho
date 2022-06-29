@@ -1,6 +1,6 @@
 ## About me
 
-- Data Scientist @ SpaceTime Labs
+- Computer Vision Data Scientist @ SpaceTime Labs
 - PhD Student @ CIn - UFPE
 - BSc and MSc in Mathematics
 - PhD in Physics/Relativistic Astrophysics - Università di Roma "La Sapienza"
