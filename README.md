@@ -1,7 +1,6 @@
 ## About me
 
 - Computer Vision Data Scientist @ Moray
-- PhD Student @ CIn - UFPE
 - BSc and MSc in Mathematics
 - PhD in Physics/Relativistic Astrophysics - Università di Roma "La Sapienza"
 
