@@ -1,6 +1,6 @@
 ## About me
 
-- Computer Vision Data Scientist @ Moray
+- Research Scientist @IDLab/Imec/UAntwerpen
 - BSc and MSc in Mathematics
 - PhD in Physics/Relativistic Astrophysics - Università di Roma "La Sapienza"
 
