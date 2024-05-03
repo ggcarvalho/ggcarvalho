@@ -13,7 +13,7 @@ Personal website: [ggcarvalho.dev](http://ggcarvalho.dev/)
 - Computer Vision
 - Quantum Computing
 - Computational Photography
-- Geographic Information System (GIS)
+- Remote Sensing
 
 ### Connect with me:
 
