@@ -1,6 +1,6 @@
 ## About me
 
-- Research Scientist @ IDLab - UAntwerpen - imec
+- Research Scientist @ imec
 - BSc and MSc in Mathematics
 - PhD in Physics/Relativistic Astrophysics - Università di Roma "La Sapienza"
 
@@ -21,8 +21,8 @@ Personal website: [ggcarvalho.dev](http://ggcarvalho.dev/)
 
 ### Tools:
 
-- Python: TensorFlow, PyTorch, OpenCV, Scikit-Learn, Matplotlib, Rasterio, Pandas and GeoPandas, Numpy, Scipy, Jupyter Notebook.
+- Python: TensorFlow, PyTorch (PyTorch Lightning), OpenCV, Scikit-Learn, Matplotlib, Rasterio, Pandas and GeoPandas, Numpy, Scipy, Jupyter Notebook.
 - Go: For general and scientific computing and presentations.
 - Less known languages: Java, Matlab, C/C++. 
-- Others: Linux, LaTeX, bash, Git.
+- Others: Linux, LaTeX, bash, Git, Lightning Studio.
 - Software: QGIS  
