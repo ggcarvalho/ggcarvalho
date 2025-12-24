@@ -1,6 +1,6 @@
 ## About me
 
-- Research Scientist @ imec
+- R&D @ imec
 - BSc and MSc in Mathematics
 - PhD in Physics/Relativistic Astrophysics - Università di Roma "La Sapienza"
 
